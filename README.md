@@ -1,1 +1,1 @@
-https://PyHbl4.github.io/rsschool-cv/cv
+https://PyHbl4.github.io/rsschool-cv
